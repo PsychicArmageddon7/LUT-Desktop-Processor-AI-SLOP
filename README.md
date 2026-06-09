@@ -1,4 +1,8 @@
-# LUT-Desktop-Processor-AI-SLOP-
+<p align="center">
+  <img src="LUT_Desktop_Git_Icon.png" alt="LUT Desktop Processor Logo" width="150" height="150">
+</p>
+
+<h1 align="center">LUT-Desktop-Processor-AI-SLOP-</h1>
 A vibe coded tool that allows the use of 1D and 3D LUTS over top of your desktop or games (must be in borderless)
 
 This tool is not validated by any actual human with experience coding, so the code itself may not be the best. I haven't the capability or desire to maintain this properly if there are any issues/bugs present, so feel free to fork and fix it or completely rewrite it to be better.
