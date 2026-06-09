@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LUT Desktop Processor.vcxproj" Id="5c682198-3f0a-4c32-a8c5-93b9798a5fa5" />
+</Solution>
